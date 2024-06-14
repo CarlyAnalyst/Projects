@@ -1,1 +1,1 @@
-On this dataset project, i was able to clean the data, create pivot tables with the datasets and use the pivotal tables to create a dashboard of the datasets
+On this dataset project, i was able to clean the data, create pivot tables with the datasets and use the pivotal tables to create a dashboard of the datasets. then i used the same datasets on Power BI and created a dashboard for it.
