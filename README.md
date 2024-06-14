@@ -1,1 +1,2 @@
-On this dataset project, i was able to clean the data, create pivot tables with the datasets and use the pivotal tables to create a dashboard of the datasets. Then i used the same datasets on Power BI and created a dashboard for it.
+Project Repository
+This Repository will hold all of the code and queries from the Portfolio Projects used
